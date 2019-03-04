@@ -2,3 +2,5 @@ lapte
 paine
 oua
 ceai negru
+tort 
+sampanie
